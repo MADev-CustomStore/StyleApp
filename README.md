@@ -72,10 +72,6 @@
 
 <a href="https://imgur.com/a/LHvXmnX">Wireframe</a>
 
-### [BONUS] Digital Wireframes & Mockups
-
-### [BONUS] Interactive Prototype
-
 ## Schema 
 
 
