@@ -56,16 +56,18 @@
 **Tab Navigation** (Tab to Screen)
 
  * Home
- * Profile
- * Add to wardrobe
- * Search wardrobe
+ * Clothing category
+ * Clothing brands
+ * Can see what clothes of what brand are present in your wardrobe
+ * Can see which types of clothing are in your wardrobe and how much of them
 
 **Flow Navigation** (Screen to Screen)
 
  * Home Screen
- * Home Screen to Profile settings
- * Home screen to add clothes to wardrobe 
- * Home page to wardrobe feature. Can look up clothing items and filter from this screen
+ * Home Screen to Categories
+ * Categories to seeing which types of clothing are in your wardrobe
+ * Home screen to Brands
+ * Brands to seeing which brands are currently in your wardrobe
 
 
 ## Wireframes
@@ -97,3 +99,4 @@
 # StyleApp
 
 <a href="https://imgur.com/a/LHvXmnX">Wireframe</a>
+<a href="https://drive.google.com/file/d/1AaNvNh5KC3njy8COxg0v4l_PO0v6v9-r/view?usp=drive_link">Demo</a>
