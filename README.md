@@ -27,7 +27,7 @@
 
 ### 1. User Stories (Required and Optional)
 
-**Required Must-have Stories**
+**Completed User Story**
 
 * TJ is a freshman at howard university and is growing tired of his outfits all feeling the same. He doesn't have enough money to buy a new waredrobe, but he believes he can switch his outfits up with what's already in his closet. He tries on different outfits but doesnt have a good system of storing them. While he's in the cafe, an outfit idea hits him but he unfortunately forgets it by the time he gets back to his dorm. He wishes there was a tool that solved this problem for him. 
 * ...
