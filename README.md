@@ -97,6 +97,6 @@
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
 
 # StyleApp
-<a href="<a href="https://imgur.com/a/LHvXmnX">GIF Features</a>
+<a href="https://imgur.com/a/LHvXmnX">GIF Features</a>
 <a href="https://imgur.com/a/LHvXmnX">Wireframe</a>
 <a href="https://drive.google.com/file/d/1AaNvNh5KC3njy8COxg0v4l_PO0v6v9-r/view?usp=drive_link">Demo</a>
