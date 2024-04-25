@@ -39,14 +39,14 @@
 
 ### 2. Screen Archetypes
 
-- [ ] [**Login Screen**]
+- [x] [**Login Screen**]
 * [ User is able to login.]
-- [ ] [**Wardrobe Selection**]
+- [x] [**Wardrobe Selection**]
 * [User can enter clothing items]
 * [User can decipher between tops, bottoms, shoes, accessories, etc.]
 - [ ] [**Outfit Matcher**]
 * [User can put pieces together]
-- [ ] [**Save Outfits**]
+- [x] [**Save Outfits**]
 * [Associated required user story]
 - [ ] [**Color Coordinator**]
 * [User can coordinate color combos to find colors thaat compliment each other]
